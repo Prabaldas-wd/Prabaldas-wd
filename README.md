@@ -38,9 +38,9 @@
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prabaldas-wd&theme=dark&background=000000" alt="GitHub Streak" width="400vw" style="margin: 0 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabaldas-wd&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400px" style="margin-left: 20px;" />
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prabaldas-wd&show_icons=true&theme=gotham" alt="Prabaldas-wd" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabaldas-wd&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400px" style="margin-left: 20px;" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Prabaldas-wd&theme=dark&background=000000" alt="GitHub Streak" width="400vw" style="margin: 0 20px;" />
 
 </div>
 <br>
